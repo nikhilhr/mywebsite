@@ -1,2 +1,2 @@
 # mywebsite
-[nikhilhr](mywebsite)
+[mywebsite](mywebsite)
